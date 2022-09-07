@@ -1,0 +1,103 @@
+.last{
+    background: white;
+    color: black;
+    width: 700px;
+    height: 270px;
+    padding: 40px 30px;
+    position: absolute;
+    top: 100px;
+    right: 60px;
+}
+.last h3{
+    text-align: justify;
+    font-size: 30px;
+}
+.last p{
+    text-align:justify;
+    font-size: 18px;
+
+}
+.last button{
+    padding: 5px 20px;
+    color: white;
+    background: orange;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    margin-right: 535px;
+}
+.last1 img{
+    width:100%;
+    height: 85%;
+}
+.text{
+    text-align: center;
+    padding-top: 70px;
+}
+/*.text h1{
+     border-bottom: 5px solid black;
+    border-width: 10%;
+    padding-bottom: 15px;
+    align-items: center;
+}*/
+.text0{
+    padding: 30px 250px 100px 250px;
+
+}
+.text1 img{
+    border: 1px solid black;
+    /*margin-bottom: 50px;*/
+}
+.top{
+    padding: 50px 70px 80px 100px;
+
+}
+.top2{
+    text-align: center;
+    padding: 30px;
+}
+/*.top2 h1{
+    border-bottom: 5px solid black;
+    border-width: 10%;
+    padding-bottom: 15px;
+    align-items: center;
+}*/
+.top1{
+    margin-right: 30px;
+    margin-bottom: 30px;
+    width: 160px;
+    height: 180px;
+}
+.top1 img{
+    padding-left: 10px;
+}
+.top1 p{
+  color: gray;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+}
+.video{
+   width: 100%;
+   height: 30%;
+   position: relative;
+}
+.video1{
+    position: absolute;
+   bottom: 250px;
+   right: 80px;
+}
+.video1 h5{
+   font-size: 60px;
+   text-align: justify;
+}
+.video1 p{
+  font-size: 28px;
+   text-align: justify;
+}
+.nav{
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    background: rgba(0, 0, 0, .3);
+}
